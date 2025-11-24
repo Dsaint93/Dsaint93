@@ -65,8 +65,8 @@ Sample project demonstrating product attribute corrections, title optimization, 
 
 ## 📫 **Contact**
 - **Email:** saindhruv@gmail.com  
-- **LinkedIn:** *Add your profile link here*  
-- **Upwork:** *Optional*  
+- **LinkedIn:** *https://www.linkedin.com/in/dhruv-sain-55a0b462/*  
+- **Upwork:** *https://www.upwork.com/freelancers/~01ebaddba738e46a65?s=1110580752008335360*  
 
 ---
 
