@@ -57,7 +57,8 @@ Sample project demonstrating product attribute corrections, title optimization, 
 ---
 
 ## 📈 **GitHub Stats**
-![Dhruv’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Dsaint93&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dsaint93)
+
 
 ---
 
